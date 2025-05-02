@@ -75,6 +75,9 @@ Y= A⊕B
 ```
 ![truth table](https://github.com/user-attachments/assets/b1e6998d-465b-477f-b1aa-6eef1825222c)
 
+**Logic gate**
+![image](https://github.com/user-attachments/assets/805b9b20-969f-4714-87b3-d19886df0d50)
+
 
 **RTL realization output**
 ![Screenshot 2025-03-26 220608](https://github.com/user-attachments/assets/ebf08794-a763-4686-b5a3-5af60b93279f)
